@@ -62,4 +62,11 @@ body{
     background-color: #119859 !important;
  }
 
+ @media (max-width: 767px) {
+
+    .form-section{
+        padding: 25px;
+    }
+   
+ }
 
